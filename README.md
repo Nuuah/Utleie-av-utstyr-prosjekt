@@ -1,1 +1,10 @@
-Dette var et prosjekt for å lage en applikasjon for å utleie verktøy.
+Prosjektet
+---
+Dette var et prosjekt for å lage en applikasjon for å utleie verktøy. Man skulle kunne ha muligheten til å leie et verktøy i en estimert tidsperiode.
+
+Hva jeg lærte
+---
+ - Java
+ - GitBash
+ - Merge
+ - Push & Pull Request
