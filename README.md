@@ -5,6 +5,6 @@ Dette var et prosjekt for å lage en applikasjon for å utleie verktøy. Man sku
 Hva jeg lærte
 ---
  - Java
- - GitBash
+ - Git
  - Merge
  - Push & Pull Request
